@@ -54,6 +54,10 @@ a:hover {
     padding: 0;
 }
 
+.faq-other-link {
+    color: #000;
+}
+
 p {
     font-family: "MyCustomFont", sans-serif;
     color: #000;
